@@ -17,12 +17,12 @@ In part of the HCAI working group of the GDR IHM, we are organizing a one-day wo
 | 10:00 | Welcome by Baptiste Caramiaux & Janin Koch |
 | 10:30 | keynote 1 by **Wendy Mackay** |
 | 11:00 | <span style="color:gray">Coffee</span> |
-| 11:15 | Presentations by **Anke Brock**, **Jules Leguy**, **Théo Jourdan**, **Emilie Perreau**, **Linghao Zeng**, **Victor Ranguin et Emilie Jiang** |
+| 11:15 | Presentations by *Anke Brock*, *Jules Leguy*, *Théo Jourdan*, *Emilie Perreau*, *Linghao Zeng*, *Victor Ranguin et Emilie Jiang* |
 | 12:45 | <span style="color:gray">Lunch</span> |
 | 13:45 | Keynote 2 by **Jules Françoise** |
-| 14:15 | Demos |
+| 14:15 | Demos by *Mihai Branga Peicu* |
 | 15:15 | <span style="color:gray">Coffee</span> |
-| 15:30 | Presentations by **Xiao Xiao**, **Balthazar Bujard**, **Behnoosh Mohammadzadeh**, **Wiam Bensaid**, **Lenny Martinez** |
+| 15:30 | Presentations by *Xiao Xiao*, *Balthazar Bujard*, *Behnoosh Mohammadzadeh*, *Wiam Bensaid*, *Lenny Martinez* |
 | 16:45 | Session on collaboration and animations within the GT (with book presentation by Mohamed Chetouani) |
 | 17:30 | Conclusions |
 | 18:00 | End / afterwork |
@@ -42,3 +42,7 @@ In part of the HCAI working group of the GDR IHM, we are organizing a one-day wo
 | Wendy Mackay | "Redefining our Relationship with Intelligent Systems" |
 | Wiam Bensaid |	"Interactive Taekwondo Poomsae Correction through Pose Estimation and Generative Flow Field Visualization" |
 | Xiao Xiao |	"Resonant AI: Interactive Mirrors for Embodied Reflection and Emotional Awareness" |
+
+## Demos 
+
+| Mihai Branga Peicu | Interactive Explanation of LLMs for Expert Users in Information Retrieval | 
