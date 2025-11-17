@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "default", "aqua", "contrast", "da
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "GT HCAI"
+title                    : "HCAI Working Group"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "GT"
@@ -113,18 +113,17 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : " "
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Human-centred AI working group ('GT')"
-  location         : ""
-  email            :
+  bio              : "&nbsp;<br>The HCAI Working Group serves as the French national research body in Human–Computer Interaction with a dedicated focus on Human-Centred Artificial Intelligence."
+  email            : 
   links:
-    - label: "Email"
+    - label: "Emails"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "https://gt-hcai.github.io/about/#contact"
+    - label: "GDR IHM"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://gdr-ihm.cnrs.fr/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
