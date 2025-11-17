@@ -1,8 +1,12 @@
 ---
-layout: post
 title: "HCAI workshop 2025"
 description: "This is the first annual event of the HCAI WG"
+layout: posts
 ---
+
+In part of the HCAI working group of the GDR IHM, we are organizing a one-day workshop dedicated to exploring current research in Human-Centred AI (HCAI) in France. The workshop will be held in a hybrid format, both online and at the Institute for Intelligent Systems and Robotics (ISIR), Sorbonne Université in Paris.
+
+We welcome submissions, consisting of a title + abstract of up to 500 words describing research, case studies, position papers, or emerging ideas from the work you would like to present. Submissions should articulate the problem space, relevance to human-centered AI, and potential contributions to the workshop discussion. Accepted abstracts will be included in the workshop program, and authors may be invited to present their work in short talks or panel discussions. 
 
 
 Preliminary program
