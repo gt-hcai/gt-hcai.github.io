@@ -47,3 +47,7 @@ In part of the HCAI working group of the GDR IHM, we are organizing a one-day wo
 
 | Mihai Branga Peicu | Interactive Explanation of LLMs for Expert Users in Information Retrieval | 
 | Xiaohan Peng | Design with DesignPrompt: Sketching and Creating with Multimodal Generative Visual Tools |
+
+## Access
+
+![alt text](/assets/imgs/access_map_venue_hcai_workshop_2025.jpg "Access Map")

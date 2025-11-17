@@ -1,7 +1,6 @@
 ---
 title: "Inauguration of the GDR IHM"
 description: "First meeting of the GT HCAI during the inauguration of the GDR IHM in Lyon"
-layout: posts
 ---
 
 We organized a half-day workshop, which took place on July 3, 2025 from 1:30 to 3:30 pm, as part of the inaugural day of the GDR IHM. The purpose of this half-day event was to discuss together the expectations of the working group on this theme, and how we should structure this working group to best support our community. 
