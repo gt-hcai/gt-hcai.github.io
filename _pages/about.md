@@ -13,7 +13,17 @@ toc: true
 
 ## Contact
 
-Contact coordinators at: [resp-gt-hcai@gdr-ihm.fr](mailto:resp-gt-hcai@gdr-ihm.fr)
+### Coordinators 
+
+Send us an email at [resp-gt-hcai@gdr-ihm.fr](mailto:resp-gt-hcai@gdr-ihm.fr) (received by Baptiste Caramiaux and Janin Koch)
+
+### Mailing list
+
+You can subscribe to the mailing of the working group ([gt-hcai-gdr-ihm@listes.lip6.fr](mailto:gt-hcai-gdr-ihm@listes.lip6.fr)) following these steps: 
+- Choose the address with which you want to subscribe to the list (e.g. username@mail.com)
+- Send a message to [sympa@listes.lip6.fr](mailto:sympa@listes.lip6.fr) from the address you want to subscribe to the list. 
+- In the subject line of your message, type in: <br> **subscribe gt-hcai-gdr-ihm Firstname Lastname** 
+- Leave the message body blank
 
 ## Description
 
