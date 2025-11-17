@@ -20,7 +20,7 @@ In part of the HCAI working group of the GDR IHM, we are organizing a one-day wo
 | 11:15 | Presentations by *Anke Brock*, *Jules Leguy*, *Théo Jourdan*, *Emilie Perreau*, *Linghao Zeng*, *Victor Ranguin et Emilie Jiang* |
 | 12:45 | <span style="color:gray">Lunch</span> |
 | 13:45 | Keynote 2 by **Jules Françoise** |
-| 14:15 | Demos by *Mihai Branga Peicu* |
+| 14:15 | Demos by *Mihai Branga Peicu*, *Xiaohan Peng* |
 | 15:15 | <span style="color:gray">Coffee</span> |
 | 15:30 | Presentations by *Xiao Xiao*, *Balthazar Bujard*, *Behnoosh Mohammadzadeh*, *Wiam Bensaid*, *Lenny Martinez* |
 | 16:45 | Session on collaboration and animations within the GT (with book presentation by Mohamed Chetouani) |
@@ -46,3 +46,4 @@ In part of the HCAI working group of the GDR IHM, we are organizing a one-day wo
 ## Demos 
 
 | Mihai Branga Peicu | Interactive Explanation of LLMs for Expert Users in Information Retrieval | 
+| Xiaohan Peng | Design with DesignPrompt: Sketching and Creating with Multimodal Generative Visual Tools |
