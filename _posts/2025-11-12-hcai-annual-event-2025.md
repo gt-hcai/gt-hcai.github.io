@@ -28,11 +28,11 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 
 | 09:30 | <span style="color:gray">Coffee</span> |
 | 10:00 | Welcome by Baptiste Caramiaux & Janin Koch |
-| 10:30 | keynote 1 by **Wendy Mackay** |
+| 10:30 | keynote 1 by **Wendy Mackay** <br>"Redefining our Relationship with Intelligent Systems" |
 | 11:00 | <span style="color:gray">Coffee</span> |
 | 11:15 | Presentations by *Anke Brock*, *Jules Leguy*, *Théo Jourdan*, *Emilie Perreau*, *Linghao Zeng*, *Victor Ranguin et Emilie Jiang* |
 | 12:45 | <span style="color:gray">Lunch</span> |
-| 13:45 | Keynote 2 by **Jules Françoise** |
+| 13:45 | Keynote 2 by **Jules Françoise** <br>"Towards collective approaches to teaching machines with Interactive Machine Learning" |
 | 14:15 | Demos by *Mihai Branga Peicu*, *Xiaohan Peng* |
 | 15:15 | <span style="color:gray">Coffee</span> |
 | 15:30 | Presentations by *Xiao Xiao*, *Balthazar Bujard*, *Behnoosh Mohammadzadeh*, *Wiam Bensaid*, *Lenny Martinez* |
@@ -52,7 +52,6 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 | Mohamed Chetouani | "The Handbook on Human–AI Collaboration: Building a Shared Resource for Research and Practice" |
 | Théo Jourdan | "Collaborative Training of Neural Sound Synthesis Models for Music" |
 | Victor Ranguin et Emilie Jiang | "Sealy the Seal: Investigating Playful Companions for Productivity" |
-| Wendy Mackay | "Redefining our Relationship with Intelligent Systems" |
 | Wiam Bensaid |	"Interactive Taekwondo Poomsae Correction through Pose Estimation and Generative Flow Field Visualization" |
 | Xiao Xiao |	"Resonant AI: Interactive Mirrors for Embodied Reflection and Emotional Awareness" |
 
