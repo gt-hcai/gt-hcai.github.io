@@ -4,7 +4,7 @@ description: "This is the first annual event of the HCAI WG"
 toc: true
 ---
 
-In part of the HCAI working group of the GDR IHM, we are organizing a one-day workshop dedicated to exploring current research in Human-Centred AI (HCAI) in France. The workshop will be held in a hybrid format, both online and at the [Institute for Intelligent Systems and Robotics (ISIR)](https://isir.upmc.fr), Sorbonne Université in Paris. 
+In part of the HCAI working group of the GDR IHM, we are organizing a one-day workshop on **25 Novembre 2025** dedicated to exploring current research in Human-Centred AI (HCAI) in France. The workshop will be held in a hybrid format, both online and at the [Institute for Intelligent Systems and Robotics (ISIR)](https://isir.upmc.fr), Sorbonne Université in Paris. 
 
 ## Attendance
 
