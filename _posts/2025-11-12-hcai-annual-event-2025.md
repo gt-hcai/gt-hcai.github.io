@@ -4,11 +4,16 @@ description: "This is the first annual event of the HCAI WG"
 toc: true
 ---
 
+{% raw %}<img src="/assets/imgs/hcai-wrkshop-2025-featuredimg.png" alt="" style="width: 80%; text-align:middle;"><br><span style="font-size: 12px;text-align: center;">CC-BY (created using dall-e, keynote and gimp)</span>{% endraw %}
+
 **25 November 2025 – Hybrid Event (Paris & Online)**
 
 *Organized by the HCAI Working Group of the GDR IHM.*
 
+
 We are pleased to announce a one-day workshop dedicated to exploring current research in Human-Centred AI (HCAI) in France. This event brings together researchers, practitioners, and students interested in designing and understanding AI systems that place humans at the center.
+
+
 
 The program features: **2 keynote talks** by Wendy Mackay and Jules Françoise, **10 research presentations** covering diverse aspects of HCAI and **3 live demonstrations** of emerging technologies and systems. 
 
