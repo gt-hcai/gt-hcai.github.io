@@ -4,7 +4,7 @@ description: "This is the first annual event of the HCAI WG"
 toc: true
 ---
 
-{% raw %}<img src="/assets/imgs/hcai-wrkshop-2025-featuredimg.png" alt="" style="width: 80%; text-align:middle;"><br><span style="font-size: 12px;text-align: center;">CC-BY (created using dall-e, keynote and gimp)</span>{% endraw %}
+<!-- {% raw %}<img src="/assets/imgs/hcai-wrkshop-2025-featuredimg.png" alt="" style="width: 80%; text-align:middle;"><br><span style="font-size: 12px;text-align: center;">CC-BY (created using dall-e, keynote and gimp)</span>{% endraw %} -->
 
 **25 November 2025 – Hybrid Event (Paris & Online)**
 
