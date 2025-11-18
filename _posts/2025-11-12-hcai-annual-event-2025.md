@@ -10,7 +10,7 @@ toc: true
 
 We are pleased to announce a one-day workshop dedicated to exploring current research in Human-Centred AI (HCAI) in France. This event brings together researchers, practitioners, and students interested in designing and understanding AI systems that place humans at the center.
 
-The program features: **2 keynote talks** by Wendy Mackay and Jules Françoise, **10 research presentations** covering diverse aspects of HCAI and **2 live demonstrations** of emerging technologies and systems. 
+The program features: **2 keynote talks** by Wendy Mackay and Jules Françoise, **10 research presentations** covering diverse aspects of HCAI and **3 live demonstrations** of emerging technologies and systems. 
 
 The workshop aims to generate three outcomes: a  map of current HCAI research in France that highlights active themes; a list of funding opportunities through which new HCAI projects can be developed; and a set of concrete actions that the working group will pursue to structure future activities in this research area.
 
@@ -30,15 +30,15 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 | 10:00 | Welcome by Baptiste Caramiaux & Janin Koch |
 | 10:30 | **Keynote 1: Wendy Mackay** - *"Redefining our Relationship with Intelligent Systems"* |
 | 11:00 | <span style="color:gray">Coffee</span> |
-| 11:15 | [Presentations](#presentation-titles-and-authors) by *Anke Brock*, *Jules Leguy*, *Théo Jourdan*, *Emilie Perreau*, *Linghao Zeng*, *Victor Ranguin et Emilie Jiang* |
+| 11:15 | [Presentations](#presentation-details) by *Anke Brock*, *Jules Leguy*, *Théo Jourdan*, *Emilie Perreau*, *Linghao Zeng*, *Victor Ranguin et Emilie Jiang* |
 | 12:45 | <span style="color:gray">Lunch served at SCAI (Sorbonne Centre for Artificial Intelligence)</span> |
 | 13:45 | **Keynote 2: Jules Françoise** - *"Towards collective approaches to teaching machines with Interactive Machine Learning"* |
-| 14:15 | [Demos](#demos) by *Mihai Branga Peicu*, *Xiaohan Peng* |
+| 14:15 | [Demos](#demonstration-details) by *Jules Françoise, Mihai Branga Peicu, Xiaohan Peng* |
 | 15:15 | <span style="color:gray">Coffee</span> |
-| 15:30 | [Presentations](#presentation-titles-and-authors) by *Xiao Xiao*, *Balthazar Bujard*, *Behnoosh Mohammadzadeh*, *Lenny Martinez* |
+| 15:30 | [Presentations](#presentation-details) by *Xiao Xiao*, *Balthazar Bujard*, *Behnoosh Mohammadzadeh*, *Lenny Martinez* |
 | 16:45 | Session on collaboration and animations within the GT (with book presentation by Mohamed Chetouani) |
 | 17:30 | Conclusions |
-| 18:00 | End / afterwork |
+| 18:00 | <span style="color:gray">End / afterwork</span> |
 
 
 ### Presentation details
@@ -57,6 +57,7 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 
 ### Demonstration details
 
+| Jules Françoise | Marcelle: A Framework for Composing Interactive Machine Learning Workflows and Interfaces | 
 | Mihai Branga Peicu | Interactive Explanation of LLMs for Expert Users in Information Retrieval | 
 | Xiaohan Peng | Design with DesignPrompt: Sketching and Creating with Multimodal Generative Visual Tools |
 
@@ -68,4 +69,4 @@ The day will be spent at ISIR, in room 304 (between towers 65 and 66, see access
 
 ### Acknowledgements
 
-The organization of this event was supported by CNRS, Sorbonne Université, ISIR (Institute for Intelligent Systems and Robotics) and SCAI (Sorbonne Centre for Artificial Intelligence). Sepcial thanks to Axelle Jouvet (Université Grenoble-Alpes), Lenny Martinez (Sorbonne Université), Mihai Branga Peicu (Sorbonne Université) and Ziqi Yi (Sorbonne Université) for their help. 
+The organization of this event was supported by CNRS, Sorbonne Université, ISIR (Institute for Intelligent Systems and Robotics) and SCAI (Sorbonne Centre for Artificial Intelligence). Special thanks to Axelle Jouvet (Université Grenoble-Alpes), Lenny Martinez (Sorbonne Université), Mihai Branga Peicu (Sorbonne Université) and Ziqi Yi (Sorbonne Université) for their help. 
