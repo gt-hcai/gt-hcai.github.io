@@ -4,10 +4,11 @@ description: "This is the first annual event of the HCAI WG"
 toc: true
 ---
 
-<!-- {% raw %}<img src="/assets/imgs/hcai-wrkshop-2025-featuredimg.png" alt="" style="width: 80%; text-align:middle;"><br><span style="font-size: 12px;text-align: center;">CC-BY (created using dall-e, keynote and gimp)</span>{% endraw %} -->
 
-**25 November 2025 – Hybrid Event (Paris & Online)**
 
+{% raw %}<img src="/assets/imgs/hcai-wrkshop-2025-featuredimg-b.png" alt="" style="width: 70%; text-align: center;">{% endraw %}
+
+**25 November 2025 – Hybrid Event (Paris & Online)** <br>
 *Organized by the HCAI Working Group of the GDR IHM.*
 
 
@@ -38,7 +39,7 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 | 11:15 | [Presentations](#presentation-details) by *Anke Brock*, *Jules Leguy*, *Théo Jourdan*, *Emilie Perreau*, *Linghao Zeng*, *Victor Ranguin et Emilie Jiang* |
 | 12:45 | <span style="color:gray">Lunch served at SCAI (Sorbonne Centre for Artificial Intelligence)</span> |
 | 13:45 | **Keynote 2: Jules Françoise** - *"Towards collective approaches to teaching machines with Interactive Machine Learning"* |
-| 14:15 | [Demos](#demonstration-details) by *Jules Françoise, Mihai Branga Peicu, Xiaohan Peng* |
+| 14:15 | [Demos](#demonstration-details) by *Jules Françoise, Léo Chédin, Mihai Branga Peicu, Xiaohan Peng* |
 | 15:15 | <span style="color:gray">Coffee</span> |
 | 15:30 | [Presentations](#presentation-details) by *Xiao Xiao*, *Balthazar Bujard*, *Behnoosh Mohammadzadeh*, *Lenny Martinez* |
 | 16:45 | Session on collaboration and animations within the GT (with book presentation by Mohamed Chetouani) |
@@ -63,6 +64,7 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 ### Demonstration details
 
 | Jules Françoise | Marcelle: A Framework for Composing Interactive Machine Learning Workflows and Interfaces | 
+| Léo Chédin | Korai: An Interactive Generative Dance Model | 
 | Mihai Branga Peicu | Interactive Explanation of LLMs for Expert Users in Information Retrieval | 
 | Xiaohan Peng | Design with DesignPrompt: Sketching and Creating with Multimodal Generative Visual Tools |
 
