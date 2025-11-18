@@ -1,5 +1,5 @@
 ---
-title: "HCAI workshop 2025"
+title: "HCAI workshop 25 Nov 2025"
 description: "This is the first annual event of the HCAI WG"
 toc: true
 ---
