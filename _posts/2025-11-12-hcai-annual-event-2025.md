@@ -49,8 +49,7 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 
 ### Presentation details
 
-| Anke Brock & Jérémie Garcia | Human-centered AI for real-time safety critical systems 
- | 
+| Anke Brock & Jérémie Garcia | Human-centered AI for real-time safety critical systems | 
 | Balthazar Bujard | "Towards User-Customizable Interactive Music Systems" |
 | Behnoosh Mohammadzadeh | "Sensemaking in User-Driven Auditing: a Human-Centered Approach to Machine Learning Evaluation" |
 | Emilie Perreau | "Toward a Methodology for Analyzing Human–Generative AI Interactions: Reflections on a Heuristic Approach Applied to Systems Engineering" |
