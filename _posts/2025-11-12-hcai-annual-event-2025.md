@@ -6,7 +6,7 @@ toc: true
 
 
 
-{% raw %}<img src="/assets/imgs/hcai-wrkshop-2025-featuredimg-b.png" alt="" style="width: 70%; text-align: center;">{% endraw %}
+{% raw %}<img src="/assets/imgs/hcai-wrkshop-2025-featuredimg-b.png" alt="" style="width: 100%; text-align: center;">{% endraw %}
 
 **25 November 2025 – Hybrid Event (Paris & Online)** <br>
 *Organized by the HCAI Working Group of the GDR IHM.*
