@@ -37,7 +37,7 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 | 10:30 | **Keynote 1: Wendy Mackay** - *"Redefining our Relationship with Intelligent Systems"* |
 | 11:00 | <span style="color:gray">Coffee</span> |
 | 11:15 | [Presentations](#presentation-details) by *Anke Brock*, *Jules Leguy*, *Théo Jourdan*, *Emilie Perreau*, *Linghao Zeng*, *Victor Ranguin et Emilie Jiang* |
-| 12:45 | <span style="color:gray">Lunch served at SCAI (Sorbonne Centre for Artificial Intelligence)</span> |
+| 12:45 | <span style="color:gray">Lunch served at SCAI (Sorbonne Centre for Artificial Intelligence) for registered attendees</span> |
 | 13:45 | **Keynote 2: Jules Françoise** - *"Towards collective approaches to teaching machines with Interactive Machine Learning"* |
 | 14:15 | [Demos](#demonstration-details) by *Jules Françoise, Léo Chédin, Mihai Branga Peicu, Xiaohan Peng* |
 | 15:15 | <span style="color:gray">Coffee</span> |
