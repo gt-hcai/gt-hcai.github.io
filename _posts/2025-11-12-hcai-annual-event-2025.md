@@ -16,7 +16,7 @@ We are pleased to announce a one-day workshop dedicated to exploring current res
 
 
 
-The program features: **2 keynote talks** by Wendy Mackay and Jules Françoise, **10 research presentations** covering diverse aspects of HCAI and **3 live demonstrations** of emerging technologies and systems. 
+The program features: **keynote talks** by Wendy Mackay and Jules Françoise, **research presentations** covering diverse aspects of HCAI and **live demonstrations** of emerging technologies and systems. 
 
 The workshop aims to generate three outcomes: a  map of current HCAI research in France that highlights active themes; a list of funding opportunities through which new HCAI projects can be developed; and a set of concrete actions that the working group will pursue to structure future activities in this research area.
 
