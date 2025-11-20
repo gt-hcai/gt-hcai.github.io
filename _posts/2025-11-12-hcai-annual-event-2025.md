@@ -41,7 +41,7 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 | 13:45 | **Keynote 2: Jules Françoise** - *"Towards collective approaches to teaching machines with Interactive Machine Learning"* |
 | 14:15 | [Demos](#demonstration-details) by *Jules Françoise, Léo Chédin, Mihai Branga Peicu, Xiaohan Peng* |
 | 15:15 | <span style="color:gray">Coffee</span> |
-| 15:30 | [Presentations](#presentation-details) by *Xiao Xiao*, *Balthazar Bujard*, *Behnoosh Mohammadzadeh*, *Lenny Martinez* |
+| 15:30 | [Presentations](#presentation-details) by *Xiao Xiao*, *Balthazar Bujard*, *Behnoosh Mohammadzadeh*, *Wiam Bensaid*, *Lenny Martinez* |
 | 16:45 | Session on collaboration and animations within the GT (with book presentation by Mohamed Chetouani) |
 | 17:30 | Conclusions |
 | 18:00 | <span style="color:gray">End / afterwork</span> |
@@ -59,6 +59,7 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 | Mohamed Chetouani | "The Handbook on Human–AI Collaboration: Building a Shared Resource for Research and Practice" |
 | Théo Jourdan | "Collaborative Training of Neural Sound Synthesis Models for Music" |
 | Victor Ranguin et Emilie Jiang | "Sealy the Seal: Investigating Playful Companions for Productivity" | 
+| Wiam Bensaid | "Interactive Taekwondo Poomsae Correction through Pose Estimation and Generative Flow Field Visualization" | 
 | Xiao Xiao |	"Resonant AI: Interactive Mirrors for Embodied Reflection and Emotional Awareness" |
 
 ### Demonstration details
