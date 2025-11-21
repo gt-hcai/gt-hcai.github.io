@@ -32,15 +32,15 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 
 ### Program
 
-| 09:30 | <span style="color:gray">Coffee</span> |
+| 09:30 | <span style="color:gray">Coffee (in the workshop Room)</span> |
 | 10:00 | Welcome by Baptiste Caramiaux & Janin Koch |
 | 10:30 | **Keynote 1: Wendy Mackay** - *"Redefining our Relationship with Intelligent Systems"* |
-| 11:00 | <span style="color:gray">Coffee</span> |
+| 11:00 | <span style="color:gray">Coffee (in the workshop Room)</span> |
 | 11:15 | [Presentations](#presentation-details) by *Anke Brock & Jérémie Garcia*, *Jules Leguy*, *Théo Jourdan*, *Emilie Perreau*, *Linghao Zeng*, *Victor Ranguin et Emilie Jiang* |
-| 12:45 | <span style="color:gray">Lunch served at SCAI (Sorbonne Centre for Artificial Intelligence) for registered attendees</span> |
-| 13:45 | **Keynote 2: Jules Françoise** - *"Towards collective approaches to teaching machines with Interactive Machine Learning"* |
-| 14:15 | [Demos](#demonstration-details) by *Jules Françoise, Léo Chédin, Mihai Branga Peicu, Xiaohan Peng* |
-| 15:15 | <span style="color:gray">Coffee</span> |
+| 12:45 | <span style="color:gray">Lunch served at ISIR for registered participants</span> |
+| 14:00 | **Keynote 2: Jules Françoise** - *"Towards collective approaches to teaching machines with Interactive Machine Learning"* |
+| 14:30 | [Demos](#demonstration-details) by *Jules Françoise, Léo Chédin, Mihai Branga Peicu, Xiaohan Peng* |
+| 15:15 | <span style="color:gray">Coffee (in the workshop Room)</span> |
 | 15:30 | [Presentations](#presentation-details) by *Xiao Xiao*, *Balthazar Bujard*, *Behnoosh Mohammadzadeh*, *Wiam Bensaid*, *Lenny Martinez* |
 | 16:45 | Session on collaboration and animations within the GT (with book presentation by Mohamed Chetouani) |
 | 17:30 | Conclusions |
