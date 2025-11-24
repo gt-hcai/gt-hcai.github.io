@@ -75,7 +75,11 @@ The event will take place at ISIR, in **room 304** (between towers 65 and 66, se
 
 Lunch will be served at the 3rd floor between towers 32 and 33. 
 
+Afterwork will take place at Césure, 13 rue Santeuil : [https://cesure.paris/cantine/](https://cesure.paris/cantine/)
+
 ![alt text](/assets/imgs/access_map_venue_hcai_workshop_2025.jpg "Access Map")
+
+
 
 ### Acknowledgements
 
