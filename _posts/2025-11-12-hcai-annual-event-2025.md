@@ -71,7 +71,9 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 
 ### Access map
 
-The day will be spent at ISIR, in room 304 (between towers 65 and 66, see access map below). Lunch will be served at SCAI (bâtiment Esclangon, 1st floor). 
+The event will take place at ISIR, in **room 304** (between towers 65 and 66, see map below). Please take the evelator from tower 65. The corridor on the 3rd floor is closed and a number will be displayed on the door. **Call this number** and we will come and open the door for you. 
+
+Lunch will be served at the 3rd floor between towers 32 and 33. 
 
 ![alt text](/assets/imgs/access_map_venue_hcai_workshop_2025.jpg "Access Map")
 
