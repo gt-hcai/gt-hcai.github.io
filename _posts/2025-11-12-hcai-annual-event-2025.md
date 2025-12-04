@@ -71,9 +71,7 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 
 ### Intro and conclusion slides
 
-<iframe src="https://docs.google.com/presentation/d/1H2sVAIWUi3SJ5aVHdrWcWDxriysKXjYH72fcciK7Qu4/embed?start=false&loop=false&delayms=3000"
-width="960" height="569" frameborder="0" allowfullscreen></iframe>
-
+<iframe src="https://docs.google.com/presentation/d/1H2sVAIWUi3SJ5aVHdrWcWDxriysKXjYH72fcciK7Qu4/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen></iframe>
 
 
 ### Access map
