@@ -33,7 +33,7 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 ### Program
 
 | 09:30 | <span style="color:gray">Coffee (in the workshop Room)</span> |
-| 10:00 | Welcome by Baptiste Caramiaux & Janin Koch |
+| 10:00 | [Welcome](#intro-and-conclusion-slides) by Baptiste Caramiaux & Janin Koch |
 | 10:30 | **Keynote 1: Wendy Mackay** - *"Redefining our Relationship with Intelligent Systems"* |
 | 11:00 | <span style="color:gray">Coffee (in the workshop Room)</span> |
 | 11:15 | [Presentations](#presentation-details) by *Anke Brock & Jérémie Garcia*, *Jules Leguy*, *Théo Jourdan*, *Emilie Perreau*, *Linghao Zeng*, *Victor Ranguin et Emilie Jiang* |
@@ -42,7 +42,7 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 | 14:30 | [Demos](#demonstration-details) by *Jules Françoise, Léo Chédin, Mihai Branga Peicu, Xiaohan Peng* |
 | 15:15 | <span style="color:gray">Coffee (in the workshop Room)</span> |
 | 15:30 | [Presentations](#presentation-details) by *Xiao Xiao*, *Balthazar Bujard*, *Behnoosh Mohammadzadeh*, *Wiam Bensaid*, *Lenny Martinez* |
-| 16:45 | Session on collaboration and animations within the GT (with book presentation by Mohamed Chetouani) |
+| 16:45 | [Session](#intro-and-conclusion-slides) on collaboration and animations within the GT (with book presentation by Mohamed Chetouani) |
 | 17:30 | Conclusions |
 | 18:00 | <span style="color:gray">End / afterwork</span> |
 
@@ -69,7 +69,7 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 | Mihai Branga Peicu | Interactive Explanation of LLMs for Expert Users in Information Retrieval | 
 | Xiaohan Peng | Design with DesignPrompt: Sketching and Creating with Multimodal Generative Visual Tools |
 
-### Slides
+### Intro and conclusion slides
 
 <iframe src="https://docs.google.com/presentation/d/1H2sVAIWUi3SJ5aVHdrWcWDxriysKXjYH72fcciK7Qu4/embed?start=false&loop=false&delayms=3000"
 width="960" height="569" frameborder="0" allowfullscreen></iframe>
