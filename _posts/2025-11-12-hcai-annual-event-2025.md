@@ -69,6 +69,12 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 | Mihai Branga Peicu | Interactive Explanation of LLMs for Expert Users in Information Retrieval | 
 | Xiaohan Peng | Design with DesignPrompt: Sketching and Creating with Multimodal Generative Visual Tools |
 
+### Slides
+
+<iframe width="560" height="315" src="https://docs.google.com/presentation/d/1H2sVAIWUi3SJ5aVHdrWcWDxriysKXjYH72fcciK7Qu4/edit?usp=sharing" frameborder="0"></iframe>
+
+
+
 ### Access map
 
 The event will take place at ISIR, in **room 304** (between towers 65 and 66, see map below). Please take the evelator from tower 65. The corridor on the 3rd floor is closed and a number will be displayed on the door. **Call this number** and we will come and open the door for you. 
