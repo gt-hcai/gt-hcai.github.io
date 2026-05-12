@@ -8,14 +8,3 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.layout--home .archive {
-  font-size: 0.8em;
-}
-
-.layout--publications .archive {
-  font-size: 0.8em;
-}
-
-.page__inner-wrap {
-  font-size: 0.7em;
-}
