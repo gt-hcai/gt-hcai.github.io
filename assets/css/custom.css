@@ -1,0 +1,4 @@
+/* Reduce font size for the publications page */
+body.page-publications {
+  font-size: 0.9em; /* Adjust the value as needed */
+}
