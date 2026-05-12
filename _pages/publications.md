@@ -12,7 +12,7 @@ layout: single
 - Mohammadzadeh, B., Françoise, J., Gouiffès, M., & Caramiaux, B. (2026). **Sensemaking in User-Driven Algorithm Auditing: A Case Study on Gender Bias in an Image Captioning Model**. *CHI*. [https://hal.science/hal-05534067v1/](https://hal.science/hal-05534067v1/)
 - Peng, X., Haldar, D., Mackay, W. E. & Koch, J. (2026). **DesignTrace: Exploring, Iterating and Tracking Design Alternatives with GenAI**. *CHI*. [nan](nan)
 - Sanchez, T., Dzhimova, M., Hsueh, S., Fdili Alaoui, S., Sungeelee, V., & Caramiaux, B. (2026). **Artists on a Decade of AI Evolution: An Interview Study of Affordances, Culture, and Artistic Practice with Machine Learning**. *CHI*. [https://hal.science/hal-05544223v1](https://hal.science/hal-05544223v1)
-- Sanchez, T., Kalamara, F. M., Stumpf, S., & Caramiaux, B. (2026). **Exploring people’s testing strategies in ML-based image classification.**. *AlpCHI*. [https://hal.science/hal-05544228v1](https://hal.science/hal-05544228v1)
+- Sanchez, T., Kalamara, F. M., Stumpf, S., & Caramiaux, B. (2026). **Exploring people’s testing strategies in ML-based image classification**. *AlpCHI*. [https://hal.science/hal-05544228v1](https://hal.science/hal-05544228v1)
 
 
 ## 2025
@@ -20,5 +20,4 @@ layout: single
 - Koch, J., Schmidt, A. & Mackay, W.E. (2025). **The Role of Design in the Future of Human-AI Interaction**. *AAR Adjunct*. [nan](nan)
 - Muralidhar, D., Belloum, R., & Ashok, A. (2025). **Operationalizing selective transparency using progressive disclosure in artificial intelligence clinical diagnosis systems**. *IJHCS*. [https://hal.science/hal-05331557v1/file/OperationalizingSelectiveTransparency.pdf](https://hal.science/hal-05331557v1/file/OperationalizingSelectiveTransparency.pdf)
 - Peng, X., Koch, J. & Mackay, W. E. (2025). **FusAIn: Composing Generative AI Visual Prompts Using Pen-based Interaction**. *CHI*. [https://hal.science/hal-05065936v1](https://hal.science/hal-05065936v1)
-- Peng, X., Koch, J. & Mackay, W. E. (2025). **DesignPrompt: Using Multimodal Interaction for Design Exploration with Generative AI
-**. *DIS*. [https://hal.science/hal-04652020](https://hal.science/hal-04652020)
+- Peng, X., Koch, J. & Mackay, W. E. (2025). **DesignPrompt: Using Multimodal Interaction for Design Exploration with Generative AI**. *DIS*. [https://hal.science/hal-04652020](https://hal.science/hal-04652020)

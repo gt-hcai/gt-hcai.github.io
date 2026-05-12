@@ -160,10 +160,6 @@ footer:
       # url:
   since: "2013"
 
-assets:
-  css:
-    - custom.css
-
 # Reading Files
 include:
   - .htaccess
