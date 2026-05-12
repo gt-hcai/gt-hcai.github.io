@@ -1,3 +1,11 @@
+---
+title: "PEPR eNSEMBLE Design-A-Thon"
+description: "Summer School"
+toc: true
+---
+
+
+
 # PEPR eNSEMBLE Design-A-Thon Summer School — 15 to 19 June, Université Paris-Saclay
 
 As announced during the TransNumériques in February, PEPR eNSEMBLE, together with the DINUM teams responsible for La Suite Numérique, is organising a first "Design-A-Thon" summer school for PEPR PhD students and postdocs from 15 to 19 June at Université Paris-Saclay.
