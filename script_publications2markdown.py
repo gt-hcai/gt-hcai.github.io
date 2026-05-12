@@ -12,7 +12,7 @@ for _, row in sorted_df.iterrows():
     title = row["PUPLICATION TITLE"]
     year = row["YEAR"]
     conference = row["CONFERENCE / JOURNAL"]
-    url = row["URL HAL"]
+    url = row["URL"]
     markdown_line = f"- {authors} ({year}). **{title}**. *{conference}*. [{url}]({url})"
     markdown_lines.append(markdown_line)
 
