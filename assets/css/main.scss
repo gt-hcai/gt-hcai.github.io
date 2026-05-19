@@ -13,5 +13,32 @@ search: false
 }
 
 .page__inner-wrap {
-  font-size: 0.7em;
+  font-size: 0.8em;
+}
+
+th {
+  cursor: pointer;
+  position: relative;
+  padding-right: 18px;
+}
+
+/* default arrow space */
+th::after {
+  content: "⇅";
+  position: absolute;
+  right: 6px;
+  opacity: 0.4;
+  font-size: 0.8em;
+}
+
+/* ascending */
+th.sort-up::after {
+  content: "▲";
+  opacity: 1;
+}
+
+/* descending */
+th.sort-down::after {
+  content: "▼";
+  opacity: 1;
 }

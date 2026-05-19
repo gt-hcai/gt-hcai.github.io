@@ -4,5 +4,7 @@ main:
   url: /
 - title: Publications
   url: /publications/
+- title: Labs
+  url: /labs/
 - title: About
   url: /about/
