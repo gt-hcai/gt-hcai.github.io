@@ -10,6 +10,7 @@ layout: archive
 
 Members of the HCAI working group represent various research labs across France, listed in the table below. This table is extracted from MyGDR data for the GDR HCI, HCAI Working Group: [https://mygdr.hosted.lip6.fr/GTView/141/](https://mygdr.hosted.lip6.fr/GTView/141/)
 
+<input type="text" id="table-filter" placeholder="Filter rows with text..." />
 
 <table id="sortable-table">
 <thead>
@@ -453,6 +454,21 @@ document.addEventListener("DOMContentLoaded", () => {
 
       asc = !asc;
       tbody.append(...rows);
+    });
+  });
+});
+
+document.addEventListener("DOMContentLoaded", () => {
+  const input = document.getElementById("table-filter");
+  const table = document.getElementById("sortable-table");
+  const rows = table.querySelectorAll("tbody tr");
+
+  input.addEventListener("input", () => {
+    const filter = input.value.toLowerCase();
+
+    rows.forEach(row => {
+      const text = row.textContent.toLowerCase();
+      row.style.display = text.includes(filter) ? "" : "none";
     });
   });
 });
