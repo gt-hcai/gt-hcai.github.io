@@ -5,7 +5,6 @@ toc: true
 date: 2026-06-30 12:00:00 +0200
 ---
 
-# HCAI Session at the GDR IHM Days
 
 We’re happy to invite you to our upcoming HCAI (Human-Centered AI) Working Group session during the [GDR IHM annual event](https://gdr-ihm.cnrs.fr/journees-gdr-ihm-2026/). 
 
