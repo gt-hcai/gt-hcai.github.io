@@ -31,5 +31,5 @@ with open("publications.md", "w", encoding="utf-8") as f:
             markdown_output = "\n".join(markdown_lines[y][c])
             f.write(markdown_output)
             print(y, c, len(markdown_lines[y][c]))
-            if len(markdown_lines[y][c]) == 1:
-                f.write("\n")
+            # if len(markdown_lines[y][c]) == 1:
+            #     f.write("\n")
