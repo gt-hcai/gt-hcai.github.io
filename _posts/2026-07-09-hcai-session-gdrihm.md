@@ -2,6 +2,7 @@
 title: "HCAI Session at the GDR IHM Days"
 description: "Workshop"
 toc: true
+date: 2026-06-30 12:00:00 +0200
 ---
 
 # HCAI Session at the GDR IHM Days
