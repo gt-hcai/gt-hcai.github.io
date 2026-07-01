@@ -25,9 +25,9 @@ for _, row in sorted_df.iterrows():
 # Save to a markdown file
 with open("publications.md", "w", encoding="utf-8") as f:
     for y in sorted(markdown_lines.keys(), reverse=True):
-        f.write(f"# {y}\n")
+        f.write(f"\n\n# {y}\n")
         for c in sorted(markdown_lines[y].keys()):
-            f.write(f"# {c}\n")
+            f.write(f"\n\n## {c}\n")
             markdown_output = "\n".join(markdown_lines[y][c])
             f.write(markdown_output)
             print(y, c, len(markdown_lines[y][c]))
