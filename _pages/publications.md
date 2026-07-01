@@ -7,7 +7,7 @@ toc: true
 layout: single 
 ---
 
-
+On this page, we present a selection of publications by members of the HCAI working group. Feel free to visit the authors' pages for complete lists.
 
 
 ## 2026 
