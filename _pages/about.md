@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: ""
-last_modified_at: 2022-05-27T11:59:26-04:00
+last_modified_at: 2025-07-03T11:59:26-04:00
 toc: true
 ---
 
