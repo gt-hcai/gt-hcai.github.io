@@ -2,8 +2,8 @@
 main:
 - title: Home
   url: /
-- title: Publications
-  url: /publications/
+- title: Resources
+  url: /resources/
 - title: Labs
   url: /labs/
 - title: About
