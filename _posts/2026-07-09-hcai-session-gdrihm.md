@@ -14,3 +14,7 @@ General Information:
 - *Where (online)*: (ask us via [email](https://gt-hcai.github.io/about/#contact)) 
 
 The aim of this session is to identify, discuss, and organize the major challenges related to HCAI in HCI. On this page, we will report the outcome of the workshop. 
+
+### Slides of the presentation 
+
+<iframe src="https://docs.google.com/presentation/d/1Z7JShAuRsyfHKzaTKWrd_INwN91AbZtfHcNiboM1n68/embed?start=false&loop=false&delayms=3000" width="120%" height="500px" frameborder="0" allowfullscreen></iframe>
