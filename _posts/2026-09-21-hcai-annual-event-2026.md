@@ -1,5 +1,5 @@
 ---
-title: "2nd Annual Workshop on Human-Centred AI (HCAI)"
+title: "2nd Annual GT Human-centered AI Day"
 description: "This is the second annual event of the HCAI WG"
 toc: true
 ---
@@ -38,7 +38,7 @@ We welcome work that explores the problem space, proposes solutions, or opens ne
 
 ### Submission and registration
 
-Register using the form below and suggest the work you'd like to present — research, case studies, position papers, or emerging ideas are all welcome.
+Register using the form below and suggest the work you'd like to present (research, case studies, position papers, or emerging ideas are all welcome).
 
 👉 [Register and submit here](https://docs.google.com/forms/d/e/1FAIpQLSeEEBk5BcpApO58pcZneEDVenIGdZRsfAq2oYjdE2NxKIHJLQ/viewform?usp=header)
 
