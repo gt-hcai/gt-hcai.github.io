@@ -1,5 +1,5 @@
 ---
-title: "Workshop on Human-Centred AI (HCAI)"
+title: "1st Annual Workshop on Human-Centred AI (HCAI)"
 description: "This is the first annual event of the HCAI WG"
 toc: true
 ---
