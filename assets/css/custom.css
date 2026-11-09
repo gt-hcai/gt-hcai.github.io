@@ -1,0 +1,337 @@
+/* ==========================================================================
+   HCAI Working Group – custom styles for Minimal Mistakes
+   Plain CSS, loaded AFTER the theme stylesheet via _includes/head/custom.html
+   ========================================================================== */
+
+:root {
+  --hcai-primary:   #1f3a8a;   /* deep blue */
+  --hcai-primary-d: #162b66;
+  --hcai-accent:    #0e9aa7;   /* teal */
+  --hcai-ink:       #0f172a;
+  --hcai-muted:     #5b6478;
+  --hcai-surface:   #f5f7fb;
+  --hcai-line:      #e3e7ef;
+  --hcai-radius:    12px;
+  --hcai-shadow:    0 6px 24px rgba(15, 23, 42, .08);
+}
+
+/* ---------- Base ---------- */
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: var(--hcai-ink);
+  background: #fff;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.65;
+}
+h1, h2, h3, h4, h5, .page__title, .archive__item-title {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: var(--hcai-ink);
+  letter-spacing: -0.015em;
+  font-weight: 700;
+}
+a { color: var(--hcai-primary); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+a:hover { color: var(--hcai-accent); }
+::selection { background: #cfe4ff; }
+
+
+/* ---------- Masthead / navigation ---------- */
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(255, 255, 255, .92);
+  -webkit-backdrop-filter: saturate(180%) blur(10px);
+  backdrop-filter: saturate(180%) blur(10px);
+  border-bottom: 1px solid var(--hcai-line);
+  box-shadow: 0 1px 0 rgba(15, 23, 42, .02);
+}
+.masthead__inner-wrap { padding-top: .6em; padding-bottom: .6em; }
+.masthead .site-title,
+.masthead .site-title:hover {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--hcai-primary);
+}
+.greedy-nav { background: transparent; }
+.greedy-nav a { color: var(--hcai-ink); font-weight: 500; }
+.greedy-nav a:hover { color: var(--hcai-primary); }
+.greedy-nav .visible-links a:before { height: 3px; border-radius: 3px; background: var(--hcai-accent); }
+.greedy-nav button { background: var(--hcai-primary); }
+.greedy-nav .hidden-links { border-radius: var(--hcai-radius); box-shadow: var(--hcai-shadow); border-color: var(--hcai-line); }
+
+/* ---------- Sidebar / author profile ---------- */
+.sidebar { font-size: 1em; }
+.sidebar .author__name { font-size: 1.1em; }
+/* the theme sizes sidebar <p> and <li> directly, so target them directly */
+.sidebar .author__content p,
+.sidebar .author__bio,
+.sidebar .author__bio p,
+.sidebar .author__urls li,
+.sidebar .author__urls a,
+.sidebar .author__urls-wrapper button { font-size: .95em; line-height: 1.5; }
+.author__avatar img,
+.author__avatar-image {
+  border-radius: 16px;
+  box-shadow: var(--hcai-shadow);
+  padding: 0;
+  border: 0;
+}
+.author__name { font-weight: 700; color: var(--hcai-primary); }
+.author__bio { color: var(--hcai-muted); line-height: 1.55; }
+.author__urls-wrapper button {
+  border-radius: 999px;
+  background: var(--hcai-surface);
+  color: var(--hcai-primary);
+  border: 1px solid var(--hcai-line);
+  font-weight: 600;
+}
+.author__urls-wrapper button:hover { background: var(--hcai-primary); color: #fff; }
+.author__urls { border-radius: var(--hcai-radius); border-color: var(--hcai-line); box-shadow: var(--hcai-shadow); }
+.author__urls a { color: var(--hcai-primary); }
+
+/* ---------- Buttons ---------- */
+.btn, .btn--primary {
+  border-radius: 999px;
+  font-weight: 600;
+  padding: .6em 1.3em;
+  background: var(--hcai-primary);
+  color: #fff;
+  border: 0;
+  transition: background .15s, transform .15s;
+}
+.btn:hover, .btn--primary:hover { background: var(--hcai-primary-d); color: #fff; transform: translateY(-1px); }
+.btn--inverse { background: transparent; color: var(--hcai-primary); border: 1.5px solid var(--hcai-primary); }
+.btn--inverse:hover { background: var(--hcai-primary); color: #fff; }
+
+/* ---------- Post list / cards ---------- */
+.archive__subtitle {
+  font-size: 1.15em;
+  padding-bottom: .4em;
+  margin-bottom: .9em;
+  border-bottom: 2px solid var(--hcai-ink);
+}
+.list__item .archive__item,
+.grid__item .archive__item {
+  border: 1px solid var(--hcai-line);
+  border-radius: var(--hcai-radius);
+  padding: .8em 1.1em;
+  margin-bottom: .8em;
+  background: #fff;
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+}
+.list__item .archive__item:hover,
+.grid__item .archive__item:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--hcai-shadow);
+  border-color: #c9d3ea;
+}
+.archive__item-title { font-size: 1.05em; margin: 0 0 .25em; line-height: 1.3; }
+.archive__item-title a { color: var(--hcai-ink); text-decoration: none; }
+.archive__item-title a:hover { color: var(--hcai-primary); }
+.archive__item-excerpt,
+.archive__item p {
+  color: var(--hcai-muted);
+  font-size: .85em;
+  line-height: 1.5;
+  margin: 0 0 .3em;            /* removes the extra white space under the text */
+}
+.archive__item > *:last-child,
+.archive__item p:last-child,
+.archive__item .page__meta:last-child { margin-bottom: 0; }
+.list__item .page__meta,
+.archive__item .page__meta {
+  color: var(--hcai-muted);
+  font-size: .7em;
+  margin: 0 0 .3em;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+}
+.archive__item-teaser { border-radius: 8px; overflow: hidden; margin-bottom: .6em; }
+
+/* ---------- Tables (labs, publications, resources) ---------- */
+.page__content table {
+  display: table;
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--hcai-line);
+  border-radius: var(--hcai-radius);
+  font-size: .9em;
+}
+/* small screens: let wide tables scroll sideways inside their frame */
+@media (max-width: 40em) {
+  .page__content table { display: block; overflow-x: auto; }
+}
+/* tables written with an empty header row: hide the empty blue bar */
+.page__content thead:not(:has(th:not(:empty))) { display: none; }
+/* keep rounded corners clean when cells have a background */
+.page__content tbody tr:last-child td:first-child { border-bottom-left-radius: calc(var(--hcai-radius) - 1px); }
+.page__content tbody tr:last-child td:last-child  { border-bottom-right-radius: calc(var(--hcai-radius) - 1px); }
+.page__content thead th:first-child { border-top-left-radius: calc(var(--hcai-radius) - 1px); }
+.page__content thead th:last-child  { border-top-right-radius: calc(var(--hcai-radius) - 1px); }
+.page__content th, .page__content td { padding: .7em .9em; border: 0; border-bottom: 1px solid var(--hcai-line); }
+.page__content tbody tr:last-child td { border-bottom: 0; }
+.page__content tbody tr:hover { background: #fafbfe; }
+
+/* ---------- Misc content ---------- */
+blockquote { border-left: 4px solid var(--hcai-accent); color: var(--hcai-muted); }
+.notice, .notice--info, .notice--primary { border-radius: var(--hcai-radius); }
+.page__content img { border-radius: 8px; }
+hr { border-color: var(--hcai-line); }
+
+/* ---------- Footer ---------- */
+.page__footer {
+  background: var(--hcai-surface);
+  border-top: 1px solid var(--hcai-line);
+  margin-top: 4em;
+  color: var(--hcai-muted);
+}
+.page__footer a { color: var(--hcai-primary); }
+.page__footer-follow .social-icons a { color: var(--hcai-primary); }
+
+/* ==========================================================================
+   Optional: hero banner (use in index.html:  <div class="hcai-hero"> … </div>)
+   ========================================================================== */
+.hcai-hero {
+  margin: 0 0 2.5em;
+  padding: 2.2em 1.8em;
+  border-radius: 18px;
+  color: #fff;
+  background:
+    radial-gradient(circle at 90% 10%, rgba(14, 154, 167, .55), transparent 50%),
+    linear-gradient(135deg, var(--hcai-primary-d), var(--hcai-primary));
+}
+.hcai-hero h1, .hcai-hero h2, .hcai-hero p { color: #fff; margin-top: 0; }
+.hcai-hero a { color: #fff; }
+.hcai-hero .btn { background: #fff; color: var(--hcai-primary); }
+@media (min-width: 48em) { .hcai-hero { padding: 3em 3em; } }
+
+/* ==========================================================================
+   Date badge on posts (needs the modified _includes/archive-single.html)
+   ========================================================================== */
+/* badge layout only applies when the template provides the badge */
+.list__item .archive__item:has(> .post-date) { display: flex; align-items: flex-start; gap: 1em; }
+.archive__item-body { flex: 1; min-width: 0; }
+
+.post-date {
+  flex: 0 0 56px;
+  text-align: center;
+  background: var(--hcai-surface);
+  border: 1px solid var(--hcai-line);
+  border-radius: 10px;
+  padding: .4em .2em;
+  line-height: 1;
+}
+.post-date__day   { display: block; font-size: 1.3em; font-weight: 800; color: var(--hcai-primary); }
+.post-date__month { display: block; margin-top: .3em; font-size: .58em; text-transform: uppercase; letter-spacing: .06em; color: var(--hcai-muted); }
+
+/* "You may also enjoy" grid at the end of posts: compact text cards */
+.grid__item .archive__item { display: block; padding: .8em 1em; }
+.grid__item .archive__item-title { font-size: .95em; }
+.grid__item .archive__item-excerpt { font-size: .8em; }
+.grid__item .post-date { display: none; }
+.page__related-title { font-size: 1.15em; padding-bottom: .4em; border-bottom: 2px solid var(--hcai-ink); margin-bottom: 1em; }
+
+/* read-time line under the title */
+.post-readtime { margin: 0 0 .3em; color: var(--hcai-muted); font-size: .7em; text-transform: uppercase; letter-spacing: .05em; }
+
+@media (max-width: 36em) {
+  .post-date { flex-basis: 48px; }
+  .post-date__day { font-size: 1.15em; }
+}
+
+
+/* ==========================================================================
+   Pages (Labs, About, Resources...): scale, colors, structure
+   ========================================================================== */
+
+/* Smaller base type: the theme scales up to 22px on wide screens */
+html { font-size: 15px !important; }
+@media (min-width: 48em) { html { font-size: 16px !important; } }
+@media (min-width: 80em) { html { font-size: 16.5px !important; } }
+
+/* Page title: compact, with a short accent bar */
+.page__title {
+  font-size: 1.7em;
+  font-weight: 800;
+  color: var(--hcai-primary);
+  margin: 0 0 1.2em;
+  padding-bottom: .5em;
+  position: relative;
+}
+.page__title::after {
+  content: "";
+  position: absolute; left: 0; bottom: 0;
+  width: 56px; height: 4px; border-radius: 4px;
+  background: linear-gradient(90deg, var(--hcai-primary), var(--hcai-accent));
+}
+.page__lead { font-size: 1.05em; color: var(--hcai-muted); }
+
+/* Headings inside page content */
+.page__content h2 {
+  font-size: 1.3em;
+  color: var(--hcai-primary);
+  margin: 2em 0 .7em;
+  padding: 0 0 0 .7em;
+  border: 0;
+  border-left: 4px solid var(--hcai-accent);
+  line-height: 1.25;
+}
+.page__content h3 { font-size: 1.1em; color: var(--hcai-ink); margin: 1.6em 0 .5em; }
+.page__content h4 {
+  font-size: .78em; text-transform: uppercase; letter-spacing: .08em;
+  color: var(--hcai-accent); margin: 1.4em 0 .4em;
+}
+.page__content p, .page__content li { font-size: 1em; }
+
+/* Text size per layout: 'archive' pages (Labs...) keep the base size;
+   'single' pages (About, ...) and the home page are larger.
+   Change the two numbers below to taste. */
+.layout--single .page__content { font-size: 1.15em; }
+/* home page: intro text + post cards. Works with the 'home' layout, or with
+   `classes: homepage` added to the front matter of index.html */
+.layout--home .archive,
+.homepage .archive { font-size: 1.1em; }
+.page__content strong { color: var(--hcai-ink); }
+
+/* Links and lists */
+.page__content a { font-weight: 500; }
+.page__content ul li::marker { color: var(--hcai-accent); }
+.page__content li { margin-bottom: .35em; }
+
+/* Tables: colored header, zebra rows */
+.page__content table { font-size: .88em; }
+.page__content thead th {
+  background: var(--hcai-primary);
+  color: #fff;
+  text-transform: uppercase;
+  font-size: .72em;
+  letter-spacing: .07em;
+  border-bottom: 0;
+  white-space: nowrap;
+}
+.page__content tbody tr:nth-child(even) { background: var(--hcai-surface); }
+.page__content tbody tr:hover { background: #e9eefb; }
+.page__content td a { font-weight: 600; }
+
+/* Table of contents */
+.toc { border-radius: var(--hcai-radius); border: 1px solid var(--hcai-line); box-shadow: none; }
+.toc .nav__title { background: var(--hcai-primary); border-radius: var(--hcai-radius) var(--hcai-radius) 0 0; }
+
+/* Optional cards for lists of labs/people:
+   <div class="card-grid" markdown="1"> <div class="card" markdown="1"> ... </div> </div> */
+.card-grid { display: grid; gap: 1em; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); margin: 1em 0 2em; }
+.card-grid .card {
+  border: 1px solid var(--hcai-line); border-top: 4px solid var(--hcai-accent);
+  border-radius: var(--hcai-radius); padding: 1em 1.2em; background: #fff;
+  transition: transform .15s, box-shadow .15s;
+}
+.card-grid .card:hover { transform: translateY(-2px); box-shadow: var(--hcai-shadow); }
+.card-grid .card h3 { margin: 0 0 .3em; font-size: 1em; color: var(--hcai-primary); }
+.card-grid .card p { margin: 0 0 .4em; font-size: .88em; color: var(--hcai-muted); }
+.card-grid .card > :last-child { margin-bottom: 0; }
+
+/* ---------- Print ---------- */
+@media print {
+  .masthead, .sidebar, .page__footer { display: none; }
+}

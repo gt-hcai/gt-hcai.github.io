@@ -1,5 +1,5 @@
 ---
-title: "2nd Annual GT Human-centered AI Day"
+title: "2026 GT Human-centered AI Day"
 description: "This is the second annual event of the HCAI WG"
 toc: true
 ---

@@ -1,3 +1,4 @@
+
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
@@ -17,14 +18,29 @@
         <img src="{{ teaser | relative_url }}" alt="">
       </div>
     {% endif %}
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h2>
-    {% include page__meta.html type=include.type %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+
+    {% if post.date and include.type != "grid" %}
+      <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">
+        <span class="post-date__day">{{ post.date | date: "%d" }}</span>
+        <span class="post-date__month">{{ post.date | date: "%b %Y" }}</span>
+      </time>
+    {% endif %}
+
+    <div class="archive__item-body">
+      <h2 class="archive__item-title no_toc" itemprop="headline">
+        {% if post.link %}
+          <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        {% else %}
+          <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+        {% endif %}
+      </h2>
+      {% assign words = post.content | strip_html | number_of_words %}
+      {% assign wpm = site.words_per_minute | default: 200 %}
+      {% assign minutes = words | divided_by: wpm | plus: 1 %}
+      <p class="post-readtime">
+        {% if include.type == "grid" and post.date %}<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time> &middot; {% endif %}<i class="far fa-clock" aria-hidden="true"></i> {{ minutes }} min read
+      </p>
+      {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    </div>
   </article>
 </div>
