@@ -1,6 +1,7 @@
 ---
 title: "PEPR eNSEMBLE Design-A-Thon"
 description: "Summer School"
+date: 2026-06-15 12:00:00 +0200
 toc: true
 ---
 

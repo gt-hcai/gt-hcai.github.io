@@ -3,3 +3,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+{% comment %} is home page: text size for the home page only, whatever its layout {% endcomment %}
+{% if page.url == "/" or page.url == "/index.html" %}
+<style>.archive { font-size: 1.05em; }</style>
+{% endif %}

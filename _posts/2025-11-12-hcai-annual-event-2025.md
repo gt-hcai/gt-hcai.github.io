@@ -1,6 +1,7 @@
 ---
 title: "2025 GT Human-centered AI Day"
 description: "This is the first annual event of the HCAI WG"
+date: 2025-11-25 12:00:00 +0200
 toc: true
 ---
 
