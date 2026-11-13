@@ -47,13 +47,13 @@ Soon
 
 ### Keynote details
 
-#### Keynote 1: Gonzalo Ramos
+#### Keynote 1: Gonzalo Ramos (Director of Research, CNRS, Sorbonne Université)
 
-![alt text](/assets/imgs/hcai-day-2026/gonzalo-ramos.jpg "headshot Gonzalo")
+![alt text](/assets/imgs/hcai-day-2026/gonzalo-ramos.jpg "headshot Gonzalo") 
 
-#### Keynote 2: Gabrielle Benabdallah
+#### Keynote 2: Gabrielle Benabdallah (Postdoctoral fellow, University of Washington)
 
-![alt text](/assets/imgs/hcai-day-2026/Benabdallah_headshot.jpg "headshot Gabrielle")
+![alt text](/assets/imgs/hcai-day-2026/Benabdallah_headshot.jpg "headshot Gabrielle") 
 
 **Writing as Material Practice in the Age of Language Models**
 
