@@ -71,9 +71,11 @@ Soon
 
 ### Access map
 
-The event will take place at ISIR, in **room 211** (between towers 55 and 65). 
+The event will take place at ISIR, in **room 211** (between towers 55 and 65, see map below). 
 
 Lunch will be served in the same room. 
+
+![alt text](/assets/imgs/hcai-day-2026/su_access_map_2026_hcai_day.jpg "Access Map")
 
 
 ### Acknowledgements
