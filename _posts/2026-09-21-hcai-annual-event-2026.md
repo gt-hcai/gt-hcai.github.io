@@ -27,7 +27,7 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 
 | 09:30 | <span style="color:gray">Coffee (in the workshop Room)</span> |
 | 10:00 | Welcome by Baptiste Caramiaux & Janin Koch |
-| 10:15 | **Keynote 1: Gonzalo Ramos** |
+| 10:15 | **Keynote 1: Gonzalo Ramos** - *Human-Centered AI: What (I think) it is, where it is at, and where we can take it* |
 | 11:00 | <span style="color:gray">Break</span> |
 | 11:20 | Human movement analysis, Machine Learning |
 | 12:00 | Human-AI Collaboration and Artistic Practice |
