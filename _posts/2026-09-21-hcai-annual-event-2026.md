@@ -18,7 +18,7 @@ The program features: **keynote talks** by Gonzalo Ramos and Gabrielle Benabdall
 
 This workshop will be held in **hybrid format**, welcoming participants both:
 
-- **In person** (required registration) at the Institute for Institute for Intelligent Systems and Robotics (ISIR), Sorbonne Université, Paris ([see access map below](#access))
+- **In person (registration required)** at the Institute for Institute for Intelligent Systems and Robotics (ISIR), Sorbonne Université, Paris ([see access map below](#access))
 - **Online via Zoom**, for those unable to travel (Zoom link: [https://univ-lille-fr.zoom.us/j/95432959209](https://univ-lille-fr.zoom.us/j/95432959209))
 
 
