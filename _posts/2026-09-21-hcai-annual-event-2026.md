@@ -27,27 +27,25 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 
 | 09:30 | <span style="color:gray">Coffee (in the workshop Room)</span> |
 | 10:00 | Welcome by Baptiste Caramiaux & Janin Koch |
-| 10:15 | **Keynote 1: Gonzalo Ramos** - *Human-Centered AI: What (I think) it is, where it is at, and where we can take it* |
+| 10:15 | **Keynote 1: Gonzalo Ramos** <br> *Human-Centered AI: What (I think) it is, where it is at, and where we can take it* |
 | 11:00 | <span style="color:gray">Break</span> |
-| 11:20 | Human movement analysis, Machine Learning |
-| 12:00 | Human-AI Collaboration and Artistic Practice |
+| 11:20 | **Panel 1:** Computer Vision for Analysing Human Action and Movement <br> *Alina Glushkova, Dimitrios Makrygiannis and Leina Montreuil* |
+| 12:00 | **Panel 2:** (Generative) AI as a Creative Medium <br> *Jérôme Nika, Balthazar Bujard and Xiaohan Peng*|
 | 12:40 | <span style="color:gray">Lunch served for registered participants</span> |
-| 14:00 | Group activity |
-| 14:15 | **Keynote 2: Gabrielle Benabdallah** - *Writing as Material Practice in the Age of Language Models* |
+| 14:00 | Community resource activity |
+| 14:15 | **Keynote 2: Gabrielle Benabdallah** <br> *Writing as Material Practice in the Age of Language Models* |
 | 15:00 | <span style="color:gray">Break</span> |
-| 15:20 | Specialized work |
-| 16:00 | Agency, specialized work |
-| 16:40 | <span style="color:gray">Break</span> |
-| 17:00 | Final discussion and conclusions |
+| 15:20 | **Panel 3:** Agency and Linguistic Factors in Human-Centred AI <br> *Bruno Berberian, Jules Françoise* |
+| 16:00 | **Panel 4:** Frictions and Power Relations in Human-Centred AI <br> *Janin Koch, Baptiste Caramiaux*|
+| 16:30 | <span style="color:gray">Break</span> |
+| 16:50 | Group discussion on HCAI challenges |
 | 18:00 | <span style="color:gray">End / afterwork</span> |
 
-### Presentation details
 
-Soon
 
 ### Keynote details
 
-#### Keynote 1: Gonzalo Ramos (Director of Research, CNRS, Sorbonne Université)
+#### Keynote 1: Gonzalo Ramos
 
 ![alt text](/assets/imgs/hcai-day-2026/gonzalo-ramos.jpg "headshot Gonzalo") 
 
