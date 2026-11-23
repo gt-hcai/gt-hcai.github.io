@@ -71,7 +71,7 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 
 The event will take place at ISIR, in **room 211** (between towers 55 and 65, see map below). 
 
-Lunch will be served in the same room. 
+Lunch will be served at the **Sorbonne Centre for Artificial Intelligence (SCAI)**.
 
 ![alt text](/assets/imgs/hcai-day-2026/su_access_map_2026_hcai_day.jpg "Access Map")
 
