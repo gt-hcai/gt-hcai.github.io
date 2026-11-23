@@ -78,4 +78,4 @@ Lunch will be served at the **Sorbonne Centre for Artificial Intelligence (SCAI)
 
 ### Acknowledgements
 
-The organization of this event was supported by CNRS, Sorbonne Université, ISIR (Institute for Intelligent Systems and Robotics). 
+The organization of this event was supported by CNRS, Sorbonne Université, ISIR (Institute for Intelligent Systems and Robotics) and SCAI (Sorbonne Centre for Artificial Intelligence).
