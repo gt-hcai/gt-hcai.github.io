@@ -66,6 +66,9 @@ This workshop will be held in **hybrid format**, welcoming participants both:
 
 [Gabrielle Benabdallah](https://poeticmachine.com/) is a Postdoctoral fellow at University of Washington
 
+### Intro and conclusion slides
+
+<iframe src="https://docs.google.com/presentation/d/1QKycl49MsS8jpltfR62QhwvoSNDaGHzZo8DbxvgVu28/embed?start=false&loop=false&delayms=3000" width="120%" height="500px" frameborder="0" allowfullscreen></iframe>
 
 ### Access map
 
