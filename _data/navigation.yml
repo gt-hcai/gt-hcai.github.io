@@ -4,8 +4,10 @@ main:
   url: /
 - title: Highlights
   url: /highlights/
-- title: Resources
-  url: /resources/
+- title: Projects
+  url: /projects/
+- title: Publications
+  url: /publications/
 - title: Labs
   url: /labs/
 - title: About
